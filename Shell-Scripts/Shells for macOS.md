@@ -2,7 +2,7 @@
 
 
 
-### 1 Shell
+### 1 - Shell
 
 Let's start
 
@@ -21,4 +21,28 @@ ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '
 If it was 0, then it means that its offline.
 
 If it was 1, then it means that its online.
+
+
+
+
+
+### 2 - GitIgnore
+
+
+
+The Shell gitignore is for make the files like DS_STORE or other trash in macOS not be pushed globally
+
+
+
+### 3 - UpdateDB Command
+
+There is a tool named ``locate`` or ``mlocate`` that make a command ``updatedb`` available in Linux only, but what about macOS?
+
+I make a shell script to make true easily 
+
+Go and watch for yourself, also inside of shell there is documentation.
+
+
+
+### 4 -  
 
