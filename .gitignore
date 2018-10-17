@@ -1,8 +1,1 @@
-# Ignore Mac DS_Store files
-
-echo ".DS_Store" >> ~/.gitignore_global
-echo "._.DS_Store" >> ~/.gitignore_global
-echo "**/.DS_Store" >> ~/.gitignore_global
-echo "**/._.DS_Store" >> ~/.gitignore_global
-
-# Written by AMSL
+.DS_STORE

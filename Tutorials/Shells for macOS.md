@@ -44,5 +44,25 @@ Go and watch for yourself, also inside of shell there is documentation.
 
 
 
-### 4 -  
+### 4 - IP Address  
+
+
+
+Shell for showing ip address with functional call and easily in everywhere
+
+Like : 
+
+1. zprezto
+2. Oh my zsh
+3. zplug
+4. antage
+5. ...
+
+And so on.
+
+
+
+### 5 - 
+
+
 
