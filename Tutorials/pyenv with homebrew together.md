@@ -80,7 +80,18 @@ $ ln -s $(brew --cellar python3)/* ~/.pyenv/versions
 
 **JUST PLAY WITH IT**
 
-At the end in your **.pyenv root folder** you have for e.g 4 python 2 folder and 2 symlink
+At the end in your **.pyenv root folder** you have for e.g 4 python  { ``2 folder and 2 symlink`` }
+
+```sh
+$ : ─ ls -la $HOME/.pyenv/versions
+./
+../
+.DS_Store
+2.7.15/
+2.7.15_1  ⇒ /usr/local/Cellar/python@2/2.7.15_1
+3.7.0/
+3.7.0_1  ⇒ /usr/local/Cellar/python/3.7.0
+```
 
 GoodLuck
 
